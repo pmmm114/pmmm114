@@ -10,6 +10,7 @@
 ## 📝 블로그
 [![이강복의 Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pmmm114.notion.site/)
 
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
