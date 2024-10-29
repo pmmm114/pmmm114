@@ -10,7 +10,7 @@
 ## 📝 블로그
 [![이강복의 Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pmmm114.notion.site/)
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 감사합니다! 😊
