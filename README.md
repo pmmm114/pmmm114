@@ -41,16 +41,16 @@ Sunday                   80 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FE_Subject_Lab           4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,7 +65,7 @@ CSS                      2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 18:44:16 UTC
+ Last Updated on 02/01/2025 18:44:59 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
