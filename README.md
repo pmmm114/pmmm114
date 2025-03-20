@@ -8,7 +8,7 @@
 [![이강복의 Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkb0297)
 
 ## 📝 블로그
-[![이강복의 Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pmmm114.notion.site/)
+[![이강복의 Velog](https://img.shields.io/badge/Velog-ffffff?style=for-the-badge&logo=velog)](https://velog.io/@pmmm114/posts)
 
 ---
 <!--START_SECTION:waka-->
