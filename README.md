@@ -12,7 +12,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -69,7 +69,7 @@ CSS                      2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 02/04/2025 18:41:27 UTC
+ Last Updated on 03/04/2025 18:41:05 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
