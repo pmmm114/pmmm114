@@ -41,16 +41,16 @@ Sunday                   111 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react-example-01         0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,7 +65,7 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 13/09/2025 18:38:28 UTC
+ Last Updated on 14/09/2025 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
