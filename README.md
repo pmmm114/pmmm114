@@ -14,6 +14,45 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+🌆 Daytime                567 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌃 Evening                483 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌙 Night                  241 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Tuesday                  264 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Wednesday                217 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Thursday                 141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Friday                   74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Saturday                 350 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Sunday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -26,7 +65,7 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 18:41:45 UTC
+ Last Updated on 04/10/2025 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
