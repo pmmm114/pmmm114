@@ -12,7 +12,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -65,7 +65,7 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:44:21 UTC
+ Last Updated on 05/01/2026 18:47:47 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
