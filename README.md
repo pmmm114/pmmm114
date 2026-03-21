@@ -17,21 +17,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-🌆 Daytime                569 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌃 Evening                488 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌙 Night                  395 commits         ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌞 Morning                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+🌆 Daytime                569 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
+🌃 Evening                496 commits         ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌙 Night                  388 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Tuesday                  264 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Wednesday                217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Monday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  264 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Wednesday                217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Thursday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Friday                   74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Saturday                 504 commits         ████████░░░░░░░░░░░░░░░░░   32.66 % 
-Sunday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Friday                   74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Saturday                 505 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Sunday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 ```
 
 
@@ -56,17 +56,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 20/03/2026 18:56:32 UTC
+ Last Updated on 21/03/2026 18:54:25 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
