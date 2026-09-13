@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -74,7 +74,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 21:01:21 UTC
+ Last Updated on 13/09/2026 21:16:44 UTC
 <!--END_SECTION:waka-->
 
 감사합니다! 😊
